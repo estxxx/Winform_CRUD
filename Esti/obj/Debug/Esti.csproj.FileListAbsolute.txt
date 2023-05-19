@@ -1,0 +1,84 @@
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\Esti.exe.config
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\Esti.exe
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\Esti.pdb
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\Npgsql.dll
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.Buffers.dll
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.Collections.Immutable.dll
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.Memory.dll
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.Numerics.Vectors.dll
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.Text.Encodings.Web.dll
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.Text.Json.dll
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.Threading.Channels.dll
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.ValueTuple.dll
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\Npgsql.xml
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.Buffers.xml
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.Collections.Immutable.xml
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.Memory.xml
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.Numerics.Vectors.xml
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.Text.Encodings.Web.xml
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.Text.Json.xml
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.Threading.Channels.xml
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\bin\Debug\System.ValueTuple.xml
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\obj\Debug\Esti.csproj.AssemblyReference.cache
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\obj\Debug\Esti.csproj.SuggestedBindingRedirects.cache
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\obj\Debug\Esti.Form1.resources
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\obj\Debug\Esti.Properties.Resources.resources
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\obj\Debug\Esti.csproj.GenerateResource.cache
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\obj\Debug\Esti.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\obj\Debug\Esti.csproj.CopyComplete
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\obj\Debug\Esti.exe
+D:\KULIAH\Semester 2\PBO\Project\Esti\Esti\obj\Debug\Esti.pdb
+E:\kuliah\smt2\Esti\Esti\bin\Debug\Esti.exe.config
+E:\kuliah\smt2\Esti\Esti\bin\Debug\Esti.exe
+E:\kuliah\smt2\Esti\Esti\bin\Debug\Esti.pdb
+E:\kuliah\smt2\Esti\Esti\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\kuliah\smt2\Esti\Esti\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\kuliah\smt2\Esti\Esti\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\kuliah\smt2\Esti\Esti\bin\Debug\Npgsql.dll
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.Buffers.dll
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.Collections.Immutable.dll
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.Memory.dll
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.Numerics.Vectors.dll
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.Text.Encodings.Web.dll
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.Text.Json.dll
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.Threading.Channels.dll
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.ValueTuple.dll
+E:\kuliah\smt2\Esti\Esti\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\kuliah\smt2\Esti\Esti\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\kuliah\smt2\Esti\Esti\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\kuliah\smt2\Esti\Esti\bin\Debug\Npgsql.xml
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.Buffers.xml
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.Collections.Immutable.xml
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.Memory.xml
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.Numerics.Vectors.xml
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.Text.Encodings.Web.xml
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.Text.Json.xml
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.Threading.Channels.xml
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\kuliah\smt2\Esti\Esti\bin\Debug\System.ValueTuple.xml
+E:\kuliah\smt2\Esti\Esti\obj\Debug\Esti.csproj.AssemblyReference.cache
+E:\kuliah\smt2\Esti\Esti\obj\Debug\Esti.csproj.SuggestedBindingRedirects.cache
+E:\kuliah\smt2\Esti\Esti\obj\Debug\Esti.Form1.resources
+E:\kuliah\smt2\Esti\Esti\obj\Debug\Esti.Properties.Resources.resources
+E:\kuliah\smt2\Esti\Esti\obj\Debug\Esti.csproj.GenerateResource.cache
+E:\kuliah\smt2\Esti\Esti\obj\Debug\Esti.csproj.CoreCompileInputs.cache
+E:\kuliah\smt2\Esti\Esti\obj\Debug\Esti.csproj.CopyComplete
+E:\kuliah\smt2\Esti\Esti\obj\Debug\Esti.exe
+E:\kuliah\smt2\Esti\Esti\obj\Debug\Esti.pdb
